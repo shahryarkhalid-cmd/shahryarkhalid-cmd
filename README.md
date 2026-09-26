@@ -22,7 +22,7 @@
 
 ## Contact Info
 Currently I am Living in **Lahore**. You can contact me from these sources:
-- Email: [sherrykhalid86@gmail.com](sherrykhalid86@gmail.com)
+- Email: [sherrykhalid86@gmail.com](mailto:sherrykhalid86@gmail.com)
 
 - Linkedin : [shahryar-khalid-29bbb6383](https://linkedin.com/in/shahryar-khalid-29bbb6383)
 - Twitter : [sherrykhal25660](https://x.com/sherrykhal25660)
