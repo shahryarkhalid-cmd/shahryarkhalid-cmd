@@ -1,4 +1,5 @@
 # Hello and Welcome!
+
 ## About me
 - I am **Shahryar Khalid**, I am a student studying in University of Punjab. 
 - I am a **Bachelor of Data Science** student, currently in **third semester**.
@@ -23,9 +24,9 @@
 Currently I am Living in **Lahore**. You can contact me from these sources:
 - Email: [sherrykhalid86@gmail.com](mailto:sherrykhalid86@gmail.com)
 
-- Linkedin : [shahryar-khalid-linkedin](linkedin.com/in/shahryar-khalid-29bbb6383)
-- Twitter : [shahryar-khalid-twitter](https://x.com/sherrykhal25660)
-- Fiverr : [shahryar-khalid-Fiverr](https://fiverr.com/shahryar42)
-- Contra: [shahryar-khalid-contra](https://contra.com/shahryar_khalid_zgohkclo)
+- Linkedin : [shahryar-khalid-29bbb6383](linkedin.com/in/shahryar-khalid-29bbb6383)
+- Twitter : [sherrykhal25660](https://x.com/sherrykhal25660)
+- Fiverr : [shahryar42](https://fiverr.com/shahryar42)
+- Contra: [shahryar_khalid_zgohkclo](https://contra.com/shahryar_khalid_zgohkclo)
 
-*Feel free to contact with me and I am open for worke accroding to my* **Tech Stack**.
+*Feel free to contact with me, open for worke accroding to my* **Tech Stack**.
